@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c0eb9d8a-03f9-4b3e-99f6-348881ebc40c/deploy-status)](https://app.netlify.com/sites/celebrated-eclair-79c23d/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
